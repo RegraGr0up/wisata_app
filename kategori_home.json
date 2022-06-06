@@ -1,0 +1,32 @@
+{
+  "kategori_home": [
+     {
+        "nama_kategori":"wisata",
+        "icon":"img.png"
+     },
+    {
+        "nama_kategori":"desa wisata",
+        "icon":"img.png"
+     },
+    {
+        "nama_kategori":"kuliner",
+        "icon":"img.png"
+     },
+     {
+        "nama_kategori":"umkm",
+        "icon":"img.png"
+     },
+    {
+        "nama_kategori":"akomidasi",
+        "icon":"img.png"
+     },
+    {
+        "nama_kategori":"paket wisata",
+        "icon":"img.png"
+     },
+    {
+        "nama_kategori":"info travel",
+        "icon":"img.png"
+     }
+ ]
+}
