@@ -45,5 +45,22 @@
         "nama_wisata":"GOA Seplawan",
         "image":"img.png"
      }
+ ],
+  "rekomendasi_home": [
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Ketang",
+        "image":"img.png"
+     },
+     {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Dewa Ruci",
+        "image":"img.png"
+     },
+    {
+        "nama_kategori":"Rekreasi",
+        "nama_wisata":"Kolam Arta Tirta",
+        "image":"img.png"
+     }
  ]
 }
