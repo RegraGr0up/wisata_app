@@ -2,65 +2,65 @@
   "kategori_home": [
      {
         "nama_kategori":"wisata",
-        "icon":"img.png"
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      },
     {
         "nama_kategori":"desa wisata",
-        "icon":"img.png"
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      },
     {
         "nama_kategori":"kuliner",
-        "icon":"img.png"
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      },
      {
         "nama_kategori":"umkm",
-        "icon":"img.png"
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      },
     {
         "nama_kategori":"akomidasi",
-        "icon":"img.png"
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      },
     {
         "nama_kategori":"paket wisata",
-        "icon":"img.png"
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      },
     {
         "nama_kategori":"info travel",
-        "icon":"img.png"
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      }
  ],
   "favorit_home": [
      {
         "nama_kategori":"wisata",
         "nama_wisata":"Pantai Dewa Ruci",
-        "image":"img.png"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
      },
     {
         "nama_kategori":"wisata",
         "nama_wisata":"Pantai Ketang",
-        "image":"img.png"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
      },
     {
         "nama_kategori":"wisata",
         "nama_wisata":"GOA Seplawan",
-        "image":"img.png"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
      }
  ],
   "rekomendasi_home": [
     {
         "nama_kategori":"wisata",
         "nama_wisata":"Pantai Ketang",
-        "image":"img.png"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
      },
      {
         "nama_kategori":"wisata",
         "nama_wisata":"Pantai Dewa Ruci",
-        "image":"img.png"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
      },
     {
         "nama_kategori":"Rekreasi",
         "nama_wisata":"Kolam Arta Tirta",
-        "image":"img.png"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
      }
  ]
 }
