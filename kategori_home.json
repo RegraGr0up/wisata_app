@@ -62,5 +62,25 @@
         "nama_wisata":"Kolam Arta Tirta",
         "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
      }
+ ],
+  "paket_wisata_home": [
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Ketang",
+        "alamat":"Ketawang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+     {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Dewa Ruci",
+        "alamat":"Jatimalang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"Rekreasi",
+        "nama_wisata":"Kolam Arta Tirta",
+        "alamat":"Purworejo",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     }
  ]
 }
